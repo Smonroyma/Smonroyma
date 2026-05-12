@@ -20,14 +20,5 @@ I'm a **Systems Engineering student** at Universidad El Bosque with a strong foc
 
 - 🔧 Improving my skills in **Backend Architectures** and **DTO pattern implementation**.
 - 🐧 Exploring advanced configurations in **Fedora** and **Ubuntu-based servers**.
-- 🎮 Narrative-driven gaming (huge fan of *The Last of Us*, *Resident Evil*, and *Silent Hill*).
-- 👟 Streetwear and technical gear.
 
 ---
-
-### 📬 Connect with me
-
-*   **Location:** Chía, Colombia 🇨🇴
-*   **Interests:** Technology, Cybersecurity, and Software Architecture.
-
-*"In code we trust, on 🐧 we run."*
